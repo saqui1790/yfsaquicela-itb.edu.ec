@@ -1,8 +1,10 @@
 ## Bienvenidos 
 
 ## Que son las redes neuroanles
+sadfafsdfgsasdgasgagddgaga
 
 ## Cuál es su relacion con la tería de grafoas
+dsgadsgadgaggdgaagd
 
 <img src="https://andromedavaluecapital.com/wp-content/uploads/2018/02/neuronal-network-1024x585.jpg" alt="Red neuronal">
 

@@ -1,4 +1,4 @@
-## Bienvenidos 
+                                                                       ## Bienvenidos 
 
 ## Que son las redes neuroanles
 Las redes neuronales son redes interconectadas masivamente en paralelo de elementos simples y con organización jerárquica, las cuales intentan interactuar con los objetos del mundo real del mismo modo que lo hace el sistema nervioso biológico.

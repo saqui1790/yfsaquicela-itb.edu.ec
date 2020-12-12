@@ -4,7 +4,7 @@
 Las redes neuronales son redes interconectadas masivamente en paralelo de elementos simples y con organización jerárquica, las cuales intentan interactuar con los objetos del mundo real del mismo modo que lo hace el sistema nervioso biológico.
 
 <img src="https://andromedavaluecapital.com/wp-content/uploads/2018/02/neuronal-network-1024x585.jpg" alt="Red neuronal">
-## Cuál es su relacion con la tería de grafoas
+## Cuál es su relacion con la tería de grafos
 se relacionan porque los puntos neuronales estan conectados por las mismas aristas.
 
 ![Grafo](https://www.madrimasd.org/blogs/matematicas/files/2012/09/Network_representation_of_brain_connectivity.jpg)
